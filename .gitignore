@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+.DS_Store
+.idea/.gitignore
+.idea/PipelineViewerConfig.xml
+.idea/ProgrammingInGo.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
